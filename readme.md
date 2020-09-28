@@ -13,7 +13,7 @@ $ cd Lista1PO
 
 ### Execução
 
-$ python3 main.py
+$ python3 nomearquivo.py
 
 
 ### Informativo
